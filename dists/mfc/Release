@@ -1,7 +1,0 @@
-Origin: MFC
-Label: MFC Debian/Ubuntu and derivatives repository
-Codename: mfc
-Architectures: amd64
-Components: contrib
-Description: Repository for packaged version for MFCoin Core and similar software available for linux platform
-SignWith: marlock@bt.freeland

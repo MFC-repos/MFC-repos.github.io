@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: MFC
+Label: MFC Debian/Ubuntu and derivatives repository
+Codename: mfc
+Architectures: amd64
+Components: contrib
+Description: Repository for packaged version for MFCoin Core and similar software available for linux platform
+SignWith: marlock@bt.freeland
+Date: Fri, 04 Oct 2019 10:29:08 +0000
+MD5Sum:
+ bcc824969c6b3178959fc08a0d42864e              657 contrib/binary-amd64/Packages
+ 55dc5cb6c0f44729d50cb506e4ae9174              462 contrib/binary-amd64/Packages.gz
+ b03905ca3f29c5e82bb7e130505daf73              298 dists/mfc/Release
+SHA1:
+ 5b8814d034ae0252e39f12db9fac702319cb964e              657 contrib/binary-amd64/Packages
+ 7bbeaf14aa682dc167d98e7b750e44b3b9b82a53              462 contrib/binary-amd64/Packages.gz
+ a8603083b46a1de8b6f13d861d0ad5d08c1eff89              298 dists/mfc/Release
+SHA256:
+ c2a80c2ee6137b28b1864974e3a3ac34a1eb5026754253586632e377f2d7e5be              657 contrib/binary-amd64/Packages
+ 0de4a56622ba7e191556c80691f39ffacff6f07589a58aeb9cc53f59c86f4ad7              462 contrib/binary-amd64/Packages.gz
+ 9f767fc3936a21ec89b71d486d03dd4f60042bff2d5c718b1e92d77b4210bc6e              298 dists/mfc/Release
+SHA512:
+ 4400e52468df3a9c514529f238a358c64ce925e693e7de05a356de6c4938595766ebee6758b50beb696893166dc171e24c20e378ffa67e471e28bdf6459dbdd8              657 contrib/binary-amd64/Packages
+ 0e98a4cdb861ae6572d96eb002d48c761c05c7dc6400c7952c470073f67d2a29aa07c2e62d0c173aa4d1e24ff1c0244344856c11549d0e47384080facc750494              462 contrib/binary-amd64/Packages.gz
+ 82ed7d1f9d65000ccc48b39100c28d4bbc7710ff3a1a11f7dc480a85750f2a67203b3d910de075053f7b69a71bd3a7a84d3e2ae3c7535ed0f7801be17f5ef035              298 dists/mfc/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XIC4ACgkQYtjwRWXQ
+YjnlbRAAx/eFBwoPBH3b4uPHtnU/TDrBKT4Sub6GzEiEi0rfi/ZdzLMVLx5e4C3p
+eUyro4V2CfD253TcPsGqZg/xG9T5eNxR1aYn2QzPCl8xRgDr9JTWWz36yAwM6FVF
+tjeynfivdztTLWBMbzlHNx3VD3sEZFgA0ajnzjviZCxbiG4liavyf/Drfoh+YeeP
+ClgZerupboi7uyLaRzTOzrVHTNSkQhlV+xwxQamlvfqegvn/WvOCii8AjWOLu1j7
+qlWYjOXoWJ/8YJThJIPCDHRnlV7qY9nulyguttKhJSkdD6MYrTmm/Zfm48D7+XGv
+9pH/6LLoqhRRK9t0A2Gp4/c97Tq2G929deoc8AxwzRoUvqtQi7mVVvFVMi7FW+Go
+axFlA4zd0oJu91L5Ryn5/YFv9DCdYpfRxxqbXjoaBed+ysNXRp9Yggms5AXvf8Ov
+mtQF3pSLt7nlTQe7cNlONpeo5InROZrdjnjEW0G5Wn4ujGMfDMGIoRo+mIA8+x6C
+mE9jJk8FxHpBOkPzqtT2bNFpDf6KGuYW/U6tN3Y9UJ3e6kmQCabSjoLp+eZKDGuL
+Xo8utUzLNHBWHouBxBf6eRrhjs1yyBTeOVYzTuqWHKdgHTLo2BCY0eiKjs11Jegp
+vwNj/noiBx+vy1wMF5T8mgfklC2kZ1fGjvf7lrfZB0KFmddJm5g=
+=Q6by
+-----END PGP SIGNATURE-----
