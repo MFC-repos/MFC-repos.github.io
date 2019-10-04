@@ -8,32 +8,32 @@ Architectures: amd64
 Components: contrib
 Description: Repository for packaged version for MFCoin Core and similar software available for linux platform
 SignWith: marlock@bt.freeland
-Date: Fri, 04 Oct 2019 16:56:33 +0000
+Date: Fri, 04 Oct 2019 17:34:13 +0000
 MD5Sum:
- 964a32448d772ba2ee3a64175e7389e7              635 dists/mfc/contrib/binary-amd64/Packages
- 4b89897df9e99a486be03ca44794d7a3              520 dists/mfc/contrib/binary-amd64/Packages.xz
+ 98de6871e12ad9dfc1433a48b13c3883              635 dists/mfc/contrib/binary-amd64/Packages
+ 7d42af8325b2c63d9db0be02450c9717              520 dists/mfc/contrib/binary-amd64/Packages.xz
 SHA1:
- c6c61c4d66e466a55dfe6f783cce25e54083e3f2              635 dists/mfc/contrib/binary-amd64/Packages
- b9c2d7c3d5ebf0a5cc1cb4cc5c94557ec291dc07              520 dists/mfc/contrib/binary-amd64/Packages.xz
+ e8eb28af6816a8eba1d691af30022443abf5bf99              635 dists/mfc/contrib/binary-amd64/Packages
+ dcaad35ce103946fe4926214630a3c6915489d14              520 dists/mfc/contrib/binary-amd64/Packages.xz
 SHA256:
- 0d33b5049f388e1e54555af3728606cf407454a6870ab3665f40440654ecf19f              635 dists/mfc/contrib/binary-amd64/Packages
- e5d2ea05778e6ae31ebc5cc98790726491bfd7c6e4eacb434396aecb23869cd2              520 dists/mfc/contrib/binary-amd64/Packages.xz
+ b3cc0eff723392156f381ae0c895d442048ef824e16ed863b4046ffcfc8c3d43              635 dists/mfc/contrib/binary-amd64/Packages
+ b1912af3e0369d9c22fd942ab7a9141660a283c747cf364c99eaea25ad6732e0              520 dists/mfc/contrib/binary-amd64/Packages.xz
 SHA512:
- 9fe4e2dcbcb1b7e6bf0a07d05fdfb96d2214653b1284db11039198852793f836518ac0c26276aa2e7606c9f1f76dc866b06eb281fe935bcfa3d573b33a4477bf              635 dists/mfc/contrib/binary-amd64/Packages
- f7dfb7ded7d10b0a595a8d6547959a919bf4661e5ce938a516d1e90fabf110ecf12470155268a4166fe17d2d1448402f65f8490608e2d8e4e06b76f34444f7fd              520 dists/mfc/contrib/binary-amd64/Packages.xz
+ 721a74c1470f243eaa88ffa15be021534a45177ed2056af4a0ecdcefebba693360f82c41640ae8d73f182f3083a02703985c7dee9f5bbfab0d7ca2c8605cda4e              635 dists/mfc/contrib/binary-amd64/Packages
+ 4a7048211877a8f0a7ec8b05ebb90874daa70d0aac254b3ad74324126793c6f5eb0f2817f782147a40013ec4d5198851706c2124af9e4b6906fcde673107ddde              520 dists/mfc/contrib/binary-amd64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XecEACgkQYtjwRWXQ
-YjnTdBAAklWjm4tTLW+EYNo7GH4XFbSpbwQbanKTiAJ85bm4a9a7RZKX9WszZsXI
-QaGdlmS0BxH0LwTpjAPhUzICdXgauM02Ec0pGLFwKBd1Z6om4MQ6HbxlsmLPwj6B
-l+qgJastiQYRL/gwxWXY1zutVb7W+YZ265lXsyUa1Z8guTnpunjV+0WblCR9NFKT
-SGRujSipo1KtqOUpj+TJ5V/TrqPNpYZB30ntwqj/MSoQHhrKuchAvNfWoInZm+Ua
-td3fgtmudMQ/aiFw4NGKG0Eis90bokKrcQepYcu14QxNKcQIkFx4Nvw4YK9wEFQj
-ryxEIns9MxqIP+Ecr01qmDgDmhEkaGjAMtQuGjIdznWH8QfwFuTdVwUC5KyDB639
-EdERqAdgJEMQ6FOFl55Xp0KXVVA6m9UR15PGwrSiDUgQAUiyS1RhubLpSN206PQi
-wZLMtskF+mJHDjJLmbRiOoOnuYAdocSxu+wWGF3PqZ2JPQQa2KUyOEK/4nsHYjDh
-1aaBZPh3Z1SbZgcNUu7TKVwyEcuaX1os+hBdV8YO1ZKLcJnBIkuywIfunEEpisDw
-AeRK6OCi9rmPbP+gJhqumSn5yMqlctMEcykqt3mHd26FndmnykbPCKPulBg/lYu8
-QhBoUlKIHyB178KVnAYUQoq7BiUPkAjoktzTgl8hdFLzMCyg/eE=
-=/nZF
+iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XgpcACgkQYtjwRWXQ
+YjkrHA/7BMVzc/yWw7Nqyuswdk1V3tLTm4NiUkowXZAYheVbOmvtcDa8C95ejT5j
+KrXFPEHwfpLX3z7KxdpB6lkQBm5siAr0Ao6lYrCd1QkmxJ+9HLoc0D1xyW2PLCw3
+N3beHLgvZE4y/5oAAEK9djg4RgjNkvNkD04d9IcD7lBXjeLnag+EHv6CnKvPDclg
+Z7U3vT8iQvbH7fqJX8T0g0ubfqi1bbJNmReATIHZxUnYjVX4fb56/yZYXXb85WwL
+864VI+lMsWyI2rekjIpL5Q/fJ7JjqJgqpxd1ZqcQGYKq0M/2qh/1MatJywHUeoAP
+JQXKwUNKQ8V4ho84G9um7acawh5QQIsFtehOJNqwN6nZPyz751j0rfgwuvx0DlFw
+6/HNw+n4WnLVpMtIio9y8BJWQG+2qFC/3FfyMMI54RbFpMHTyaJB2h5Nt8xDV8vV
+Zp5U0hzNS/NF1UT1xxaXz4iZaNTNaEJK5rAg3zhVcVOjlgRRbvF8f5X12CCp5Pm0
+9HPlCtDvY72ZB1HYU8GLNU0usdPkGzW7Ay1OU+GVQusJR6zWYDS5RTBkkmKMT+gD
+jEyHVIBcu8+3UU8yxUybjOBKfaRMxq9pwHCY+NtJjwoeO3szEwrBay/PVGUC3hnr
+aHasCAZ2Zg0iIGdmRy1SdFbqFs7RObqtXM6lW3lwm/fSrLSBdo8=
+=ji2h
 -----END PGP SIGNATURE-----
