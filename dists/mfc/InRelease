@@ -8,36 +8,40 @@ Architectures: amd64
 Components: contrib
 Description: Repository for packaged version for MFCoin Core and similar software available for linux platform
 SignWith: marlock@bt.freeland
-Date: Fri, 04 Oct 2019 11:12:29 +0000
+Date: Fri, 04 Oct 2019 11:36:22 +0000
 MD5Sum:
- fafd7aa9fa171e15470d1a2c72662fe9              298 dists/mfc/Release
+ 95c59b9cd90472c8039a2b085a343ab8              298 dists/mfc/Release
  e4c35892fad8e4686f3de098efaf03d4              635 dists/mfc/contrib/binary-amd64/Packages
  d44ce6c49c4989278ea6405f792a0071              450 dists/mfc/contrib/binary-amd64/Packages.gz
+ ce517779443261ce3326d985b5e12799              524 dists/mfc/contrib/binary-amd64/Packages.xz
 SHA1:
- a25491d9419bd8dac275b707cf2ca5dc133daeab              298 dists/mfc/Release
+ 8330a219b7a1d2c4e94b2c465718e4bf16ea93a8              298 dists/mfc/Release
  b46b2c37f30fd2a0dd8e49e6abfdda698c147ec7              635 dists/mfc/contrib/binary-amd64/Packages
  2cdd050e9350b6332c129071272f77aea0c659bf              450 dists/mfc/contrib/binary-amd64/Packages.gz
+ ffc64c882c74bb718cb2972a78cd7dba7849e89c              524 dists/mfc/contrib/binary-amd64/Packages.xz
 SHA256:
- 4df77b01982800ab937243cdd9e3eea55187307c2d21645c0a1f420a94377253              298 dists/mfc/Release
+ b9bad72cffcd9cf29535e6bad1442f05b774bd37e2399604cc4357f052ada187              298 dists/mfc/Release
  3fedb15851593116c83273b215061046b1d9c20519e5dba17cf3e3283ebfbf38              635 dists/mfc/contrib/binary-amd64/Packages
  3a933eb5b80002b86c624c80cb4c5d3c641f396ef3a86324af6d8091233b2ae1              450 dists/mfc/contrib/binary-amd64/Packages.gz
+ 6af4de5600da06f962a562420eab919e793edb51b30c5a039d4495ae1f685f85              524 dists/mfc/contrib/binary-amd64/Packages.xz
 SHA512:
- 34682adf23dac879f0965fcee37d7c560d1e1417045db9b7e1ef56fb230008c27ce62ac6a6bebdd5aa76a6f0ef9aeb0faf8850205384881689250bc1bb03e4d1              298 dists/mfc/Release
+ 222237d48e507342c5091c13d5b02c51e75d97904053670954016ceebd822ceb89ce75559815f75cd2100b86bda2197c3b2b88fc808b70e4a2bb7ca40025b95f              298 dists/mfc/Release
  893daeaeb3ef46415f1b68306a7dc1de7d79d546e5229d87aafdc1fdd3ca357dd9e1b3b0b2af2b1911b9f5ea28ef5fb28493dfdf1fd1cdf05c47ca18b997bc63              635 dists/mfc/contrib/binary-amd64/Packages
  53cf1e1bff4fb095fb4c8c6ae0f3ed3440e3ad3688f510d6ff659454237d293eb0e6c09adf7124a0fb643d9fdd27a16628e4cd0bd0bcabd66d813b378755b3cc              450 dists/mfc/contrib/binary-amd64/Packages.gz
+ 0bcfa4e6cb1e9ef34ec9920e3f914c10c1d5b44ead68728baff77d98d7bf4058b64f55e57ecd5caf150a67b3a6a4fc2eecea5aa10c2654c45f1723df0c8ab67c              524 dists/mfc/contrib/binary-amd64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XKR0ACgkQYtjwRWXQ
-YjkB8g/8Djij5hrJ12udCr6fbSYR0heI5pd5Zx5Q6Q5EXyrwkY0U5lK5WmvnRz/l
-npqFBpw3KGjBEDXb73ej0VeOzcYdTrAYq5O8booy6wWIPSsX8K+LIHmzQf4Qcnjg
-7M3WwXoYcnl/VUrf3Rs3xS45vfJoMIg1pyFaqTnsXFUzAEBZcBcgmvB+b5CC1ukF
-bw+/kTJWEyeJm7lDnHJwjRHGsegKHjH2USgZiVpW9KeS2WpkL5wHDUzqB5pXP3y3
-L3PnLNkan8s/2CnSyGLquHCscyxSY7clKeOaNd/nhrA6MXdeOeAgpg/UjNPq38Ex
-e7EFo00r4x0CyQbMJsBmH+y7Q/GoSUEC3c3SHS5nM2ogilMlN0dWr2Q0oiDO7oDu
-I4IbCg6BFT2Gee1H4udhN7KDloqj5aeh1NsjnDU5JyGZYtklO9fPaQRj+UqTbVko
-kMI4d8Y5kPVsit2hj/dRlQtKmL+MmZ3vs0MJEd/olou7P/QYWByPzwwofvR5bSKY
-UY5+FJnHjMWqThavEquFqk8SJmqbiYPtq65N8OoyFtzmF5hrScz3T/3Ce1EX+iaA
-En50FJOe6MYKk6J86y3LBmRgh7PDdY2yJCz0vSE5sbCC+oq0FHLlJ3S6tRx44zWu
-tGUrN4BgnrUiszmKhWYTMXpis8LHcaYSBwHjf4gfGPG6ccoDzI8=
-=hN5H
+iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XLrYACgkQYtjwRWXQ
+YjmkqxAAuahbmjzWNGgmRFm/ynY+DYI0Uk8FJvTvu/YwH/REElyrA9vmVfgZtj3O
+4Pi++aeSCKyZE438VZ7hS6gLFSI3aadOPHB7roRAnwm1WJG0QYgNIqGWWkPuf9H1
+XDrQULXCh1pvfJf9iiJaXn/+vjgHQHaLpT9COt7ExGYk4I3Z40omcTvyfAykjTe4
+qAav6nDsLmIPAd+3gUAdCHCyxDCKGGguohDyLPGEKwn4451eG6a3dHDwXomYuZsL
+Ll18jN10IJVnxUCPLwH6S+pxNpgbGHUXSVI5enCf+x5CL02zry8s3VF+bjvFImbm
+7EARXoDrZ5KaRsU4SrNEuWW1MQYlwxe4dzZy12qLtw0b1vSUYYGj9VTUVTGRV6Yq
+jf5wM8aNE7b+f70k+XsBr0JY/3gMWkA42M8Z2SzTzbmnFEa/QweN2e3I6+Bif7ke
+oW6Mql0U0c7tDV61rQdOmKABngJEzyiXNr9pv4F3oGuLRWA/mhDjNTLsNyEAPmds
+qxSbh670Oqs4LOKLFyr6rTtJCagkNd7RW8aQ9FX7ZHB41lvCvUiqKo3BAP4SOsn8
+pCjyRQWBE/2SWUH/aPd50KVdyQjIOJrDqwVMN8SSc36E3JjaNdKOf3T6wPvkyTaD
+rlPUecRy5NSpJb8n9V1uGir/owIJ7TdcubXMmIlb/F1OmeH+s3c=
+=g3oV
 -----END PGP SIGNATURE-----

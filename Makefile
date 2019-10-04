@@ -11,12 +11,12 @@ dists/mfc/InRelease: dists/mfc/Release
 	mv dists/mfc/InRelease.new dists/mfc/InRelease
 		rm dists/mfc/Release
 
-dists/mfc/Release: conf/distributions contrib/binary-amd64/Packages.gz
+dists/mfc/Release: conf/distributions contrib/binary-amd64/Packages.xz
 	cat conf/distributions > dists/mfc/Release
 	apt-ftparchive release . >> dists/mfc/Release
 
-contrib/binary-amd64/Packages.gz: contrib/binary-amd64/Packages
-	gzip --keep --force -9 contrib/binary-amd64/Packages
+contrib/binary-amd64/Packages.xz: contrib/binary-amd64/Packages
+	xz -k -9e contrib/binary-amd64/Packages
 
 contrib/binary-amd64/Packages: contrib/binary-amd64/*.deb
 	dpkg-scanpackages contrib/binary-amd64 > contrib/binary-amd64/Packages.new
