@@ -9,15 +9,14 @@ repo: dists/mfc/InRelease
 dists/mfc/InRelease: dists/mfc/Release
 	gpg --clearsign --digest-algo SHA512 -o dists/mfc/InRelease.new dists/mfc/Release
 	mv dists/mfc/InRelease.new dists/mfc/InRelease
-		rm dists/mfc/Release
+	rm dists/mfc/Release
 
 dists/mfc/Release: conf/distributions contrib/binary-amd64/Packages.xz
 	cat conf/distributions > dists/mfc/Release
-	apt-ftparchive release . >> dists/mfc/Release
+	apt-ftparchive release . | grep -vwE "dists/mfc/Release" >> dists/mfc/Release
 
 contrib/binary-amd64/Packages.xz: contrib/binary-amd64/Packages
-	xz -k -9e contrib/binary-amd64/Packages
+	xz -9ec contrib/binary-amd64/Packages > contrib/binary-amd64/Packages.xz
 
 contrib/binary-amd64/Packages: contrib/binary-amd64/*.deb
-	dpkg-scanpackages contrib/binary-amd64 > contrib/binary-amd64/Packages.new
-	mv contrib/binary-amd64/Packages.new contrib/binary-amd64/Packages
+	dpkg-scanpackages contrib/binary-amd64 > contrib/binary-amd64/Packages
