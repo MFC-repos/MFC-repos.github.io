@@ -1,13 +1,13 @@
 Package: mfcoin
-Version: 3.0.0-1
+Version: 3.0.0-2
 Architecture: amd64
 Maintainer: Vladislav Marchenko <marlock@bt.freeland>
-Depends: libssl1.0.0, libboost-all-dev, libevent-2.1-6 | libevent-2.0-5, libqrencode-dev, libqt5gui5, libqt5core5a, libqt5dbus5, qttools5-dev, qttools5-dev-tools, libprotobuf-dev, protobuf-compiler, libminiupnpc-dev
-Filename: contrib/binary-amd64/mfcoin-3.0.0-1.deb
-Size: 21683860
-MD5sum: bd4a049afa409ec7992ba85493be31c7
-SHA1: 67eafb839dbad85b6eb54b17289d71ba274cadf2
-SHA256: 40b399954dd53fe271b1f08d2e16827fa38059cce15028d1c0351746dff48c62
+Depends: libssl1.1 | libssl1.0.0, libboost-all-dev, libevent-2.1-6 | libevent-2.0-5, libqrencode-dev, libqt5gui5, libqt5core5a, libqt5dbus5, libprotobuf-dev, protobuf-compiler, libminiupnpc-dev
+Filename: contrib/binary-amd64/mfcoin-3.0.0-2.deb
+Size: 21672400
+MD5sum: 8374eadf9d41a5cf102a5bb0d900fa55
+SHA1: ef1ead2a956c14060ab21037796fb884a7809e6d
+SHA256: 0b695b794f8b41eab528549cbb0e22b0dec2a247c5a0750fbeb6df96c00e1aa1
 Section: base
 Priority: optional
 Description: MFCoin is a digital currency and blockchain service platform

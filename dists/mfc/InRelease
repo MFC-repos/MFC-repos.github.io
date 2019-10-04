@@ -8,36 +8,36 @@ Architectures: amd64
 Components: contrib
 Description: Repository for packaged version for MFCoin Core and similar software available for linux platform
 SignWith: marlock@bt.freeland
-Date: Fri, 04 Oct 2019 10:29:08 +0000
+Date: Fri, 04 Oct 2019 11:12:29 +0000
 MD5Sum:
- bcc824969c6b3178959fc08a0d42864e              657 contrib/binary-amd64/Packages
- 55dc5cb6c0f44729d50cb506e4ae9174              462 contrib/binary-amd64/Packages.gz
- b03905ca3f29c5e82bb7e130505daf73              298 dists/mfc/Release
+ fafd7aa9fa171e15470d1a2c72662fe9              298 dists/mfc/Release
+ e4c35892fad8e4686f3de098efaf03d4              635 dists/mfc/contrib/binary-amd64/Packages
+ d44ce6c49c4989278ea6405f792a0071              450 dists/mfc/contrib/binary-amd64/Packages.gz
 SHA1:
- 5b8814d034ae0252e39f12db9fac702319cb964e              657 contrib/binary-amd64/Packages
- 7bbeaf14aa682dc167d98e7b750e44b3b9b82a53              462 contrib/binary-amd64/Packages.gz
- a8603083b46a1de8b6f13d861d0ad5d08c1eff89              298 dists/mfc/Release
+ a25491d9419bd8dac275b707cf2ca5dc133daeab              298 dists/mfc/Release
+ b46b2c37f30fd2a0dd8e49e6abfdda698c147ec7              635 dists/mfc/contrib/binary-amd64/Packages
+ 2cdd050e9350b6332c129071272f77aea0c659bf              450 dists/mfc/contrib/binary-amd64/Packages.gz
 SHA256:
- c2a80c2ee6137b28b1864974e3a3ac34a1eb5026754253586632e377f2d7e5be              657 contrib/binary-amd64/Packages
- 0de4a56622ba7e191556c80691f39ffacff6f07589a58aeb9cc53f59c86f4ad7              462 contrib/binary-amd64/Packages.gz
- 9f767fc3936a21ec89b71d486d03dd4f60042bff2d5c718b1e92d77b4210bc6e              298 dists/mfc/Release
+ 4df77b01982800ab937243cdd9e3eea55187307c2d21645c0a1f420a94377253              298 dists/mfc/Release
+ 3fedb15851593116c83273b215061046b1d9c20519e5dba17cf3e3283ebfbf38              635 dists/mfc/contrib/binary-amd64/Packages
+ 3a933eb5b80002b86c624c80cb4c5d3c641f396ef3a86324af6d8091233b2ae1              450 dists/mfc/contrib/binary-amd64/Packages.gz
 SHA512:
- 4400e52468df3a9c514529f238a358c64ce925e693e7de05a356de6c4938595766ebee6758b50beb696893166dc171e24c20e378ffa67e471e28bdf6459dbdd8              657 contrib/binary-amd64/Packages
- 0e98a4cdb861ae6572d96eb002d48c761c05c7dc6400c7952c470073f67d2a29aa07c2e62d0c173aa4d1e24ff1c0244344856c11549d0e47384080facc750494              462 contrib/binary-amd64/Packages.gz
- 82ed7d1f9d65000ccc48b39100c28d4bbc7710ff3a1a11f7dc480a85750f2a67203b3d910de075053f7b69a71bd3a7a84d3e2ae3c7535ed0f7801be17f5ef035              298 dists/mfc/Release
+ 34682adf23dac879f0965fcee37d7c560d1e1417045db9b7e1ef56fb230008c27ce62ac6a6bebdd5aa76a6f0ef9aeb0faf8850205384881689250bc1bb03e4d1              298 dists/mfc/Release
+ 893daeaeb3ef46415f1b68306a7dc1de7d79d546e5229d87aafdc1fdd3ca357dd9e1b3b0b2af2b1911b9f5ea28ef5fb28493dfdf1fd1cdf05c47ca18b997bc63              635 dists/mfc/contrib/binary-amd64/Packages
+ 53cf1e1bff4fb095fb4c8c6ae0f3ed3440e3ad3688f510d6ff659454237d293eb0e6c09adf7124a0fb643d9fdd27a16628e4cd0bd0bcabd66d813b378755b3cc              450 dists/mfc/contrib/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XIC4ACgkQYtjwRWXQ
-YjnlbRAAx/eFBwoPBH3b4uPHtnU/TDrBKT4Sub6GzEiEi0rfi/ZdzLMVLx5e4C3p
-eUyro4V2CfD253TcPsGqZg/xG9T5eNxR1aYn2QzPCl8xRgDr9JTWWz36yAwM6FVF
-tjeynfivdztTLWBMbzlHNx3VD3sEZFgA0ajnzjviZCxbiG4liavyf/Drfoh+YeeP
-ClgZerupboi7uyLaRzTOzrVHTNSkQhlV+xwxQamlvfqegvn/WvOCii8AjWOLu1j7
-qlWYjOXoWJ/8YJThJIPCDHRnlV7qY9nulyguttKhJSkdD6MYrTmm/Zfm48D7+XGv
-9pH/6LLoqhRRK9t0A2Gp4/c97Tq2G929deoc8AxwzRoUvqtQi7mVVvFVMi7FW+Go
-axFlA4zd0oJu91L5Ryn5/YFv9DCdYpfRxxqbXjoaBed+ysNXRp9Yggms5AXvf8Ov
-mtQF3pSLt7nlTQe7cNlONpeo5InROZrdjnjEW0G5Wn4ujGMfDMGIoRo+mIA8+x6C
-mE9jJk8FxHpBOkPzqtT2bNFpDf6KGuYW/U6tN3Y9UJ3e6kmQCabSjoLp+eZKDGuL
-Xo8utUzLNHBWHouBxBf6eRrhjs1yyBTeOVYzTuqWHKdgHTLo2BCY0eiKjs11Jegp
-vwNj/noiBx+vy1wMF5T8mgfklC2kZ1fGjvf7lrfZB0KFmddJm5g=
-=Q6by
+iQIzBAEBCgAdFiEELyeZoQTsMZ8uV3NCYtjwRWXQYjkFAl2XKR0ACgkQYtjwRWXQ
+YjkB8g/8Djij5hrJ12udCr6fbSYR0heI5pd5Zx5Q6Q5EXyrwkY0U5lK5WmvnRz/l
+npqFBpw3KGjBEDXb73ej0VeOzcYdTrAYq5O8booy6wWIPSsX8K+LIHmzQf4Qcnjg
+7M3WwXoYcnl/VUrf3Rs3xS45vfJoMIg1pyFaqTnsXFUzAEBZcBcgmvB+b5CC1ukF
+bw+/kTJWEyeJm7lDnHJwjRHGsegKHjH2USgZiVpW9KeS2WpkL5wHDUzqB5pXP3y3
+L3PnLNkan8s/2CnSyGLquHCscyxSY7clKeOaNd/nhrA6MXdeOeAgpg/UjNPq38Ex
+e7EFo00r4x0CyQbMJsBmH+y7Q/GoSUEC3c3SHS5nM2ogilMlN0dWr2Q0oiDO7oDu
+I4IbCg6BFT2Gee1H4udhN7KDloqj5aeh1NsjnDU5JyGZYtklO9fPaQRj+UqTbVko
+kMI4d8Y5kPVsit2hj/dRlQtKmL+MmZ3vs0MJEd/olou7P/QYWByPzwwofvR5bSKY
+UY5+FJnHjMWqThavEquFqk8SJmqbiYPtq65N8OoyFtzmF5hrScz3T/3Ce1EX+iaA
+En50FJOe6MYKk6J86y3LBmRgh7PDdY2yJCz0vSE5sbCC+oq0FHLlJ3S6tRx44zWu
+tGUrN4BgnrUiszmKhWYTMXpis8LHcaYSBwHjf4gfGPG6ccoDzI8=
+=hN5H
 -----END PGP SIGNATURE-----
